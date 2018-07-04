@@ -16,11 +16,6 @@ python2 chromeos.py /for chrome
 python2 iosipad.py /for ios
 
 ```
-### ===========
-# [TUTORIAL](https://youtu.be/NwMYG_jn1HM)
-# [SUBCRABE NOW](https://www.youtube.com/channel/UCycBrqSWEHdk-slnhUmGWiQ)
-### ===========
-# [CREATOR](http://line.me/ti/p/~adiputra.95)
-
-
-# SIAP PAKAI DAN SIAP MENGHARGAI CREATOR
+MANISH TOKEN BOT 
+FOR ANY TO
+ALL IN ONE TOKEN BOT
